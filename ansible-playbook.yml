@@ -20,7 +20,7 @@
 
     - name: "code copy"
       git:
-        repo: 'https://github.com/mailrahulsre/learnwithprojects.com.git'
+        repo: 'https://github.com/gitkumars/learnwithprojects.com.git'
         dest: /var/www/html
         version: master
         force: yes
